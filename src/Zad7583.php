@@ -1,4 +1,6 @@
 <?php
+namespace roma/city;
+
 $PGT = $_GET['PGT'];
 $YearBuilt = $_GET['YearBuilt'];
 $latitude = $_GET['latitude'];
